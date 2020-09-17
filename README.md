@@ -1,1 +1,1 @@
-# garbage-game2
+# garbage-game
